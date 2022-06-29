@@ -1,0 +1,88 @@
+[
+    {
+        "Author": "N'esswen Latteh",
+        "Name": "NesswensChatTools",
+        "Description": "N'esswen's chat tools for additional message filtering. Use /nct to set up.",
+        "InternalName": "NesswensChatTools",
+        "AssemblyVersion": "1.0.2.0"
+        "ApplicableVersion": "any",
+        "Tags": [
+          "Utility"
+        ],
+        "DalamudApiLevel": 6,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensChatTools/latest.zip"
+    },
+    {
+        "Author": "N'esswen Latteh",
+        "Name": "N'esswen's Macro Repeater",
+        "InternalName": "NesswensMacroRepeater",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Adds a /nmr command that will repeat current macro from the beginning.",
+        "ApplicableVersion": "any",
+        "Tags": [
+          "Utility"
+        ],
+        "DalamudApiLevel": 6,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Punchline": "N'esswen's macro repeater.",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensMacroRepeater/latest.zip"
+    },
+    {
+        "Author": "N'esswen Latteh",
+        "Name": "N'esswen's Padlock Mover",
+        "InternalName": "NesswensPadlockMover",
+        "AssemblyVersion": "1.0.1.0",
+        "Description": "Allows you to (slightly) move the actionbar padlock. Use /npm to configure.",
+        "ApplicableVersion": "any",
+        "Tags": [
+          "Utility"
+        ],
+        "DalamudApiLevel": 6,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Punchline": "N'esswen's padlock mover.",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensPadlockMover/latest.zip"
+    },
+    {
+        "Author": "N'esswen Latteh",
+        "Name": "N'esswen's Pulse Duplicator",
+        "InternalName": "NesswensPulseDuplicator",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Duplicates the pulse animation for currently used ability across all actionbars.",
+        "ApplicableVersion": "any",
+        "Tags": [
+          "Utility"
+        ],
+        "DalamudApiLevel": 6,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Punchline": "N'esswen's pulse duplicator.",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensPulseDuplicator/latest.zip"
+    },
+    {
+        "Author": "N'esswen Latteh",
+        "Name": "N'esswen's Retainer Notes",
+        "InternalName": "NesswensRetainerNotes",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Adds a new column for retainers for a note. Use /nrn to set up the notes.",
+        "ApplicableVersion": "any",
+        "Tags": [
+          "Utility"
+        ],
+        "DalamudApiLevel": 6,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Punchline": "N'esswen's Retainer Notes.",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensRetainerNotes/latest.zip"
+    }
+]
