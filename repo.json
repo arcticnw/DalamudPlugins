@@ -4,7 +4,7 @@
         "Name": "NesswensChatTools",
         "Description": "N'esswen's chat tools for additional message filtering. Use /nct to set up.",
         "InternalName": "NesswensChatTools",
-        "AssemblyVersion": "1.0.2.0"
+        "AssemblyVersion": "1.0.2.0",
         "ApplicableVersion": "any",
         "Tags": [
           "Utility"
