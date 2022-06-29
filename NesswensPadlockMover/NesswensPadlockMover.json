@@ -1,0 +1,14 @@
+{
+  "Author": "N'esswen Latteh",
+  "Name": "N'esswen's Padlock Mover",
+  "InternalName": "NesswensPadlockMover",
+  "AssemblyVersion": "1.0.1.0",
+  "Description": "Allows you to (slightly) move the actionbar padlock. Use /npm to configure.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "N'esswen's padlock mover."
+}
