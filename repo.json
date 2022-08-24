@@ -11,7 +11,13 @@
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "Punchline": "N'esswen's chat tools for additional message filtering."
+  "Punchline": "N'esswen's chat tools for additional message filtering.",
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "LoadPriority": 0,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensChatTools/latest.zip"
 },
 {
   "Author": "N'esswen Latteh",
@@ -25,7 +31,13 @@
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "Punchline": "N'esswen's macro repeater."
+  "Punchline": "N'esswen's macro repeater.",
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "LoadPriority": 0,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensMacroRepeater/latest.zip"
 },
 {
   "Author": "N'esswen Latteh",
@@ -39,7 +51,13 @@
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "Punchline": "N'esswen's padlock mover."
+  "Punchline": "N'esswen's padlock mover.",
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "LoadPriority": 0,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensPadlockMover/latest.zip"
 },
 {
   "Author": "N'esswen Latteh",
@@ -53,7 +71,13 @@
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "Punchline": "N'esswen's pulse duplicator."
+  "Punchline": "N'esswen's pulse duplicator.",
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "LoadPriority": 0,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensPulseDuplicator/latest.zip"
 },
 {
   "Author": "N'esswen Latteh",
@@ -67,6 +91,12 @@
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "Punchline": "N'esswen's Retainer Notes."
+  "Punchline": "N'esswen's Retainer Notes.",
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "LoadPriority": 0,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/NesswensRetainerNotes/latest.zip"
 }
 ]
