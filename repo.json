@@ -1,4 +1,4 @@
-﻿{
+﻿[
 {
   "Author": "N'esswen Latteh",
   "Name": "N'esswen's Chat Tools",
@@ -69,4 +69,4 @@
   "LoadPriority": 0,
   "Punchline": "N'esswen's Retainer Notes."
 }
-}
+]
