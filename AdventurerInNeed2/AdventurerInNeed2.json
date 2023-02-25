@@ -1,0 +1,17 @@
+{
+  "Author": "Caraxi, N'esswen Latteh",
+  "Name": "Adventurer in Need (N'esswen's variant)",
+  "InternalName": "AdventurerInNeed2",
+  "AssemblyVersion": "1.0.8.0",
+  "Description": "Adventurer in Need (N'esswen's variant)",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Utility"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Adventurer in Need (N'esswen's variant)",
+  "AcceptsFeedback": true
+}

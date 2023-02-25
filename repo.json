@@ -1,5 +1,28 @@
 ﻿[
 {
+  "Author": "Caraxi, N'esswen Latteh",
+  "Name": "Adventurer in Need (N'esswen's variant)",
+  "InternalName": "AdventurerInNeed2",
+  "AssemblyVersion": "1.0.8.0",
+  "Description": "Adventurer in Need (N'esswen's variant)",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Utility"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Adventurer in Need (N'esswen's variant)",
+  "AcceptsFeedback": true,
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "LoadPriority": 0,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/master/AdventurerInNeed2/latest.zip"
+},
+{
   "Author": "N'esswen Latteh",
   "Name": "N'esswen's Chat Tools",
   "InternalName": "NesswensChatTools",
