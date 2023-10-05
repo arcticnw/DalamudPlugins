@@ -2,15 +2,16 @@
   "Author": "N'esswen Latteh",
   "Name": "N'esswen's Retainer Notes",
   "InternalName": "NesswensRetainerNotes",
-  "AssemblyVersion": "1.0.8.0",
+  "AssemblyVersion": "1.0.9.0",
   "Description": "Adds a new column for retainers for a note. Use /nrn to set up the notes.",
   "ApplicableVersion": "any",
   "Tags": [
     "Utility"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "N'esswen's Retainer Notes.",
   "AcceptsFeedback": true

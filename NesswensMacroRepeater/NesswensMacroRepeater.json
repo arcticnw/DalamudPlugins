@@ -2,15 +2,16 @@
   "Author": "N'esswen Latteh",
   "Name": "N'esswen's Macro Repeater",
   "InternalName": "NesswensMacroRepeater",
-  "AssemblyVersion": "1.0.8.0",
+  "AssemblyVersion": "1.0.9.0",
   "Description": "Adds a /nmr command that will repeat current macro from the beginning.",
   "ApplicableVersion": "any",
   "Tags": [
     "Utility"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "N'esswen's macro repeater.",
   "AcceptsFeedback": true
